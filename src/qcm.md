@@ -14,7 +14,7 @@ Parmi ces deux procédures de développement, laquelle préconisez-vous ?
 4. Tester que “F” fonctionne correctement
 
 Que se passe-t-il lors d’un merge “fast-forward” ?
-???
+
 
 Quelle commande permet d’effacer la branche distante nommée “branfix” ?
 
